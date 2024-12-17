@@ -20,4 +20,4 @@ pip install -r requirments.txt
 ```
 python grab.py
 ```
-**[connect me](https://t.me/keagtorb79)**
+
