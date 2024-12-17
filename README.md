@@ -3,7 +3,7 @@ Grab Instagram session id with web and mobile api
 
 1. You need to clone this repository
 ```
-git clone https://github.com/keagtorb/grab-insta
+git clone https://github.com/saltX5/grab-insta
 ```
 
 2. After you clone the repo you will have to navigate to the folder
