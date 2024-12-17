@@ -29,5 +29,3 @@
     <li>Twitter</li>
     <li>LinkedIn</li>
 </ul>
-
-
