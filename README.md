@@ -1,5 +1,5 @@
 # Instagram Session ID-Grabber
-Grab Instagram session id with web and mobile api 
+Grab Instagram session cookies. 
 
 1. You need to clone this repository
 ```
